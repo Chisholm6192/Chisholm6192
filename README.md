@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Ryan 👋
+## Welcome to My Github Page
+#### Here you will an assortment of projects that I have personally built for school projects, clubs and extra curriculur activities and my own side projects, Enjoy
+
+
+### Also check out my linked in profile to learn more about me!
+www.linkedin.com/ryan-chisholm-wlu/
+
 
 <!--
 **Chisholm6192/Chisholm6192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
