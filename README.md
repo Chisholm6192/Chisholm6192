@@ -4,7 +4,10 @@
 
 
 ### Also check out my linked in profile to learn more about me!
-www.linkedin.com/ryan-chisholm-wlu/
+📫www.linkedin.com/ryan-chisholm-wlu/
+
+### And visit my website for more in depth information about some of my projects ###
+⚡https://chisholm6192.github.io/Personal-Website/
 
 
 
