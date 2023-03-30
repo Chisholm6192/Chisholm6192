@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 <hr>-->
 <p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+  <a href="https://Chisholm6192.github.io/Personal-Website/" target="_blank" ><img src="https://Chisholm6192.github.io/Personal-Website/" alt="Personal Website" width="230"></a>
 </p>
 
 <p  align="center">
