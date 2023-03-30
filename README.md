@@ -37,10 +37,18 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
+### About Me: ###
+
+
+
+## Skills ##
+
+### Languages ###
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<!--###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
   <br>
   <br>
@@ -60,11 +68,6 @@ Here are some ideas to get you started:
   <img title="Java" height="25" src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
 <img title="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img title="C#" height="25" src="[https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)">
-  <!--<code><img title="Numpy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
-  <code><img title="Scikit Learn" height="25" src="images/Scikit_learn.svg"></code>-->
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -101,7 +104,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<hr>
+<hr>-->
 <!--<p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p>
