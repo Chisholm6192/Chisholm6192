@@ -36,6 +36,9 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ryan;Thank+you+for+visiting%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
