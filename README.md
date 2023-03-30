@@ -53,10 +53,9 @@ Here are some ideas to get you started:
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <!--<code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>-->
-<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
+ ## Skills:
+
+#### Languages:
   <img title="Python" height="25" src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
   <img title="Java" height="25" src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
 <img title="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
