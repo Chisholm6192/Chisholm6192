@@ -90,7 +90,11 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## 📊 Github Statistics ##
+![](https://github-readme-stats.vercel.app/api?username=Chisholm6192&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chisholm6192&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/ username=Chisholm6192&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <br>
 
 
