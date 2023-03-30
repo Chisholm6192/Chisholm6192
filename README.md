@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 <hr>-->
 <p align="center">
-  <a href="https://Chisholm6192.github.io/Personal-Website/" target="_blank" ><img src="https://Chisholm6192.github.io/Personal-Website/" alt="Personal Website" width="230"></a>
+  <a href="https://Chisholm6192.github.io/Personal-Website/" target="_blank" ><img src="https://github.com/Chisholm6192/Personal-Website/blob/main/img/Content/Logo.png" alt="Personal Website" width="230"></a>
 </p>
 
 <p  align="center">
