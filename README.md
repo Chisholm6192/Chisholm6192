@@ -47,7 +47,8 @@ Here are some ideas to get you started:
   <br><br>
 <a href="https://www.linkedin.com/in/ryan-chisholm-8639b3239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:RyanChisholmMW@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
 
-### Checkout my Website ### -><a href="https://Chisholm6192.github.io/Personal-Website/" target="_blank" ><img src="https://github.com/Chisholm6192/Personal-Website/blob/main/img/Content/Logo.png" alt="Personal Website" width="120"></a>
+### Checkout my Website ###
+<a href="https://Chisholm6192.github.io/Personal-Website/" target="_blank" ><img src="https://github.com/Chisholm6192/Personal-Website/blob/main/img/Content/Logo.png" alt="Personal Website" width="120"></a>
 
 ## Skills ##
 
