@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me: ###
 <p align="center">
   <br>
   <br>
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/ryan-chisholm-8639b3239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:RyanChisholmMW@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
-<hr>
+<br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
- ## Skills:
+ ## Skills: ##
 
 #### Languages:
   <img title="Python" height="25" src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 </p>
-<hr>
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
