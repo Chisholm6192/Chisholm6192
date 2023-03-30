@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="Ryan Chisholm">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chisholm6192/Chisholm6192" alt="Ryan Chisholm">    
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -38,8 +37,11 @@ Here are some ideas to get you started:
 </h1>
 
 ### About Me: ###
-
-
+  👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science, with a minor in business at Wilfrid Laurier University
+  💻 
+  📚 
+  📫 How to reach me 👇
+<a href="https://www.linkedin.com/in/ryan-chisholm-8639b3239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:RyanChisholmMW@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
 
 ## Skills ##
 
@@ -79,22 +81,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
-
-
-   
-<!--###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
-  <br>
-  <br>
-  👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science, with a minor in business at Wilfrid Laurier University
-  <br>
-  💻 
-  <br>
-  📚 
-  <br>
-  📫 How to reach me 👇
-</p>
-<p align="center"> <a href="https://www.linkedin.com/in/ryan-chisholm-8639b3239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:RyanChisholmMW@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
+<!--p align="center"> <a href="https://www.linkedin.com/in/ryan-chisholm-8639b3239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:RyanChisholmMW@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
 <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
