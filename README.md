@@ -1,16 +1,3 @@
-### Hi there, I'm Ryan 👋
-## Welcome to My Github Page
-#### Here you will see an assortment of projects that I have personally built for school projects, clubs and extra curriculur activities and my own side projects, Enjoy
-
-
-### Also check out my linked in profile to learn more about me!
-📫www.linkedin.com/ryan-chisholm-wlu/
-
-### And visit my website for more in depth information about some of my projects ###
-⚡https://chisholm6192.github.io/Personal-Website/
-
-
-
 
 <!--
 **Chisholm6192/Chisholm6192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chisholm6192/Chisholm6192" alt="Ryan Chisholm">    
 
 <h1 align="center">
@@ -109,16 +94,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Chisholm6192/2048-Game/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chisholm6192&repo=2048-Game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
 </p>
-
-<hr>-->
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Chisholm6192/Chisholm6192" alt="Chisholm6192"/>       
 </p>
-
-<!---
-HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
