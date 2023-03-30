@@ -111,13 +111,13 @@ Here are some ideas to get you started:
 </p>
 
 <hr>-->
-<!--<p align="center">
+<p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
-</p>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Chisholm6192/Chisholm6192" alt="Chisholm6192"/>       
+</p>
 
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
