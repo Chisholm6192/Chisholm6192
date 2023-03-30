@@ -93,21 +93,10 @@ Here are some ideas to get you started:
 ## 📊 Github Statistics ##
 <p align="center">
   <a href="https://github.com/Chisholm6192/">
-    <img width="25" src="https://github-readme-stats.vercel.app/api?username=Chisholm6192&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="25" src="https://github-readme-streak-stats.herokuapp.com/?user=Chisholm6192&theme=dark&hide_border=false"/>
-    <img width="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chisholm6192&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-![](https://github-readme-stats.vercel.app/api?username=Chisholm6192&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chisholm6192&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmed2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  </p>
-
-
-
-<p align="center">
-<a href="https://github.com/Chisholm6192/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chisholm6192&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</p>
+    <img width="325" src="https://github-readme-stats.vercel.app/api?username=Chisholm6192&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=Chisholm6192&theme=dark&hide_border=false"/>
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chisholm6192&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+ </p>
 
 <hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
