@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/04ryanchisholm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
 
 ### Checkout my Website ###
+<a href="https://Chisholm6192.github.io/Personal-Website/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://Chisholm6192.github.io/Personal-Website/" target="_blank" ><img src="https://github.com/Chisholm6192/Personal-Website/blob/main/img/Content/Logo.png" alt="Personal Website" width="120"></a>
 
 ## Skills ##
