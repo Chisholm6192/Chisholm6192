@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ryan;Thank+you+for+visiting%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hey+There%2C+I'm+Ryan;Welcome+to+My+Webpage" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=HI%2C+I'm+Ryan;Thank+you+for+visting" alt="Typing SVG" /></a>
 
 ### About Me: ###
   👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science, with a minor in business at Wilfrid Laurier University
