@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science, with a minor in business at Wilfrid Laurier University
   <br>
   💻 Currently working on an expenses tracker webapp in collaboaration with the Laurier Computing Society ->
-  <a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+  <a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
   <br>
   📚 
   <br><br><br>
