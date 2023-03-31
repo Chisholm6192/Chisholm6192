@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science, with a minor in business at Wilfrid Laurier University
   <br>
   💻 Currently working on an expenses tracker webapp in collaboaration with the Laurier Computing Society 
-  <a href="https://www.instagram.com/04ryanchisholm/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"></a>
+  <a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"></a>
   <br>
   📚 
   <br><br><br>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <br><br>
 <a href="https://www.linkedin.com/in/ryan-chisholm-8639b3239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="mailto:RyanChisholmMW@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
+<a href="https://www.instagram.com/04ryanchisholm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
 
 ### Checkout my Website ###
 <a href="https://Chisholm6192.github.io/Personal-Website/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
