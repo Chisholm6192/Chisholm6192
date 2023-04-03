@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br>
   💻 Currently working on an expenses tracker webapp in collaboaration with the Laurier Computing Society 
   <br>
-  <a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" size="10"></a>
+  Expenses Tracker<a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
   <br>
   📚 
   <br><br><br>
