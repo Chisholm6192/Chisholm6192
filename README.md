@@ -25,6 +25,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/LaurierCS/Pod2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
   <br>
   📚 
+  <br>
+  <b>Other Things I'm Working On 👇</b>
+  <br>
+  <a href="https://github.com/ccubed-dev/new-discord-bot"> Developping Discord Bot for CCubed <a/>
+  <br>
+  <a href="https://github.com/thegoldenhack/website-2023"> Developping Website for The GoldenHack 5.0 Hackathon <a/> 
+  
   <br><br><br>
   📫 How to reach me 👇
   <br><br>
