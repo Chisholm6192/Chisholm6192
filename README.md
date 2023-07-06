@@ -26,11 +26,13 @@ Here are some ideas to get you started:
   <br>
   📚 
   <br>
-  <b>Other Things I'm Working On 👇</b>
+  <b>Things I'm Currently Working On 👇</b>
   <br>
   <a href="https://github.com/ccubed-dev/new-discord-bot"> Developping Discord Bot for CCubed <a/>
   <br>
   <a href="https://github.com/thegoldenhack/website-2023"> Developping Website for The GoldenHack 5.0 Hackathon <a/> 
+  <br>
+  <a href="https://github.com/Chisholm6192/Expenses-Tracker"> Developping Expenses Tracker WebApp <a/>
   
   <br><br><br>
   📫 How to reach me 👇
