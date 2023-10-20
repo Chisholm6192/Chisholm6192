@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   <br>
 
   <b> Most Recent Projects </b>
-  <a href="https://github.com/thegoldenhack/website-2023"> Developed Website for The GoldenHack 5.0 Hackathon <a/> 
+  <a href="https://github.com/thegoldenhack/website-2023"> Website for The GoldenHack 5.0 Hackathon <a/> 
   <br>
-  <a href="https://github.com/Chisholm6192/Expenses-Tracker"> Developed Expenses Tracker WebApp <a/>
+  <a href="https://github.com/Chisholm6192/Expenses-Tracker"> Expenses Tracker WebApp <a/>
   
   <br><br><br>
   📫 How to reach me 👇
