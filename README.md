@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br>
   <b>Things I'm Currently Working On 👇</b>
   <br>
-  <a href="https://github.com/ccubed-dev/new-discord-bot"> Developping Discord Bot for CCubed <a/>
+  <a href="https://github.com/Chisholm6192/Fin"> Developping Discord Bot for Laurier Fintech <a/>
   <br>
   <a href="https://github.com/thegoldenhack/website-2023"> Developping Website for The GoldenHack 5.0 Hackathon <a/> 
   <br>
