@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/Chisholm6192/Fin"> Developping Discord Bot for Laurier Fintech <a/>
   <br>
+
+  <b> Most Recent Projects </b>
   <a href="https://github.com/thegoldenhack/website-2023"> Developping Website for The GoldenHack 5.0 Hackathon <a/> 
   <br>
   <a href="https://github.com/Chisholm6192/Expenses-Tracker"> Developping Expenses Tracker WebApp <a/>
