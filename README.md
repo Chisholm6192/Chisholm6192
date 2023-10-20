@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/Chisholm6192/Fin"> Developping Discord Bot for Laurier Fintech <a/>
   <br>
-  <a> Earning my AWS META development certificate's </a>
+  <a> Earning my AWS and META development certificate's </a>
   <br>
 
   <b> Most Recent Projects </b>
