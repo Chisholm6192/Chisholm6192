@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/Chisholm6192/Fin"> Developping Discord Bot for Laurier Fintech <a/>
   <br>
+  <a> Earning my AWS META development certificate's </a>
+  <br>
 
   <b> Most Recent Projects </b>
   <a href="https://github.com/thegoldenhack/website-2023"> Developed Website for The GoldenHack 5.0 Hackathon <a/> 
