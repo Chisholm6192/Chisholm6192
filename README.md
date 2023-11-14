@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=700&color=F7F7F7&center=true&width=435&lines=HI%2C+I'm+Ryan;Thank+you+for+visting" alt="Typing SVG" /></a>
 
 ### About Me: ###
-  👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science, with a minor in business at Wilfrid Laurier University
+  👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science
   <br>
   <br>
   <b>Things I'm Currently Working On 👇</b>
