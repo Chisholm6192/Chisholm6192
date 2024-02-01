@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=600&color=F7F7F7&left=true&width=700&lines=Welcome+to+My+Github+Page;Check+Out+Some+of+My+Projects;Visit+my+Website+for+Working+Demos+of+my+Projects" alt="Typing SVG" /></a>
 
 ### About Me: ###
-  👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science
+  👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science at Wilfrid Laurier University
   <br>
   <br>
   <b>Things I'm Currently Working On 👇</b>
