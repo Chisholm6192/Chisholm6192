@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br>
   <b>Things I'm Currently Working On 👇</b>
   <br>
-  <a href="https://github.com/Chisholm6192/Fintech-Bot"> Developping Discord Bot for Laurier Fintech <a/>
+  <a href="https://github.com/Chisholm6192/File-Manager"> Building a file management software with CCUBED <a/>
   <br>
   <a> Earning my AWS and META development certificate's </a>
   <br>
