@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   👨‍🎓 Currently pursuing an Honor's Bachelor's of Science in Computer Science at Wilfrid Laurier University
   <br>
   <br>
-  <b>Things I'm Currently Working On 👇</b>
+<!--<b>Things I'm Currently Working On 👇</b>
   <br>
   <a href="https://github.com/Chisholm6192/File_Manager"> Building a file management software with CCUBED <a/>
   <br>
-  <a> Earning my AWS and META development certificate's </a>
+  <a> Earning my AWS and META development certificate's </a>-->
   <br>
 
   <b> Most Recent Projects </b>
