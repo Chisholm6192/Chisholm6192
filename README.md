@@ -1,3 +1,3 @@
-Computer Science and Business Student at Wilfrid Laurier University
+Computer Science and Business @ Wilfrid Laurier University
 
 Business Systems Analyst @ RBC
